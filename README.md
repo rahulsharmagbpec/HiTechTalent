@@ -1,11 +1,8 @@
-**Code Challenge  (MVVM, KOTLIN, COMPOSE, NAVIGATION COMPONENT, LIVEDATA, STATE)**
-
-
-https://github.com/rahulsharmagbpec/HiTechTalent/assets/12457008/305562d9-2780-4452-948c-0037dc8dafe0
+<h2>Code Challenge  (MVVM, KOTLIN, COMPOSE, NAVIGATION COMPONENT, LIVEDATA, STATE)</h2>
 
 The goal of this challenge is to get a better understanding of your mobile development and user interface design abilities. You are tasked with providing a simple sign-up form, where a user can register for an imaginary service. The form is to include inputs for the user’s first name, email address, password, and their personal website. Additionally, the user can take a profile picture. 
 
-
+https://github.com/rahulsharmagbpec/HiTechTalent/assets/12457008/305562d9-2780-4452-948c-0037dc8dafe0
 
 Requirements
 
@@ -21,7 +18,7 @@ Requirements
 
 If time allows, show us your unique area of expertise, whether that is in UI/UX design, testing, architecture, etc. If you deviated or elaborated on the listed requirements, please explain the decision-making process you took, and what the benefits are. 
 
-**View 1 - Sign Up **
+**View 1 - Sign Up**
 
 The page is to include a header, help text, a form, and submit button. The email and password fields are the two fields required to submit the form. Additionally, there is a profile photo that can be taken via the “Tap to add avatar” button
 
@@ -39,7 +36,7 @@ This view is a camera for the user to take a profile photo. It can be the system
 
 ![download2](https://github.com/rahulsharmagbpec/HiTechTalent/assets/12457008/f4bf9e8d-30d0-4bc1-871e-9d240ed6d2ee)
 
-**View 3 - Confirmation **
+**View 3 - Confirmation**
 
 Once the user successfully provides the required inputs and taps the “Submit” button, they are to be routed to a confirmation view. Here the user is provided confirmation information utilizing their first name, email and website when provided. Additionally, a “Sign In” button is presented, but does not require any functionality.
 
